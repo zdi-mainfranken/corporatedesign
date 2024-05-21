@@ -2,4 +2,4 @@
 
 dies wird der Style Guide des ZDI.
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](/images/tux.png)
