@@ -1,33 +1,23 @@
-Dies ist der Style Guide des ZDI, in dem alle relevanten Elemente, Vorgaben und Objekte zum Corporate Design gesammelt werden. Er wird hier in digitaler Form angelegt, da er im Laufe der Zeit wachsen und sich verändern wird. Hier befindet sich immer die aktuellste Version.
+# Style Guide Guide
 
-Nachfolgend die einzelnen Sektionen des Style Guide. Diese sind auch links in der Navigation zu finden.
+Style Guide Guide is a boilerplate for creating a custom style guide for your organization's design system. It provides just enough IA and hooks to get you going. As a bonus, I've provided links to helpful resources and inspiration to help you as you create your own custom style guide.
 
-Die Originaldateien liegen alle in /ZDI Ablage 2111/05 Öffentlichkeitsarbeit/01 Corporate Design
+[See the demo here](http://bradfrost.github.io/style-guide-guide/)
 
-Erstellt am 23.4.24 von Peter Schmitt
+## How it works
+Style Guide Guide is built using [Jekyll](https://jekyllrb.com/), a static site generator which works quite well for managing the content of a style guide.
 
-Letzte Änderung: 25.4.24
+The tool can consume and display components from anywhere, but in my own workflow we import patterns from [Pattern Lab](http://patternlab.io/) into Style Guide Guide for display. For more info, check out this blog post (coming soon for now).
 
-[Logo](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Logo?fileId=935566)
+## Getting Started
+1. Download or clone the files from the [repository on Github](https://github.com/bradfrost/style-guide-guide).
+2. In the command line, navigate to the root of the project and run the `jekyll serve` command. This will build the static site and watch for changes.
+3. Visit `http://127.0.0.1:4000/` in your browser to see the style guide.
 
-[Claim](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Claim?fileId=937489)
+From here, obviously the point is to customize the style guide for your needs and populate it with your content and components.
 
-[Schrift, Typografie](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Schrift%2C%20Typografie?fileId=935600)
+## Importing components and assets from Pattern Lab
+Coming soon!
 
-[Farbe](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Farbe?fileId=935601)
-
-[Bild](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Bild?fileId=935606)
-
-[Grafische Elemente](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Grafische%20Elemente?fileId=935607)
-
-[Icons](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Icons?fileId=935609)
-
-[Formate](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Formate?fileId=935610)
-
-[Text](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Text?fileId=935720)
-
-[Beispiele](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Beispiele?fileId=937486)
-
-[Vorlagen](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Vorlagen?fileId=936610)
-
-[Ablauf, Verantwortlichkeiten](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Ablauf%2C%20Verantwortlichkeiten?fileId=937177)
+## Feedback and Questions
+If you have questions or issues with Style Guide Guide, please feel free to [open an issue](https://github.com/bradfrost/style-guide-guide/issues). If your organization is creating a design system and style guide and would like some help taking it to the next level, feel free to [get in touch!](http://bradfrost.com/contact/)
