@@ -11,10 +11,8 @@ Für Überschriften verwenden wir die Schrift Moby. Sie ist sehr eigenwillig und
 Die Schrift für Fließtexte oder längere Überschriften ist die Ubuntu. Sie existiert in verschiedenen Ausprägungen (Leicht, Regular, Medium, Fett und jeweils auch als kursiver Schnitt).
 
 Beide Schriftfamilien sind kostenlos verfügbar und können hier heruntergeladen werden:
-* **Ubuntu**
-* [https://font.download/font/ubuntu](https://font.download/font/ubuntu)
-* **Moby**
-* [https://font.download/font/moby](https://font.download/font/moby)
+* **Ubuntu:** [https://font.download/font/ubuntu](https://font.download/font/ubuntu)
+* **Moby:** [https://font.download/font/moby](https://font.download/font/moby)
 
 Bisher gibt es keine typografischen Festlegungen (Ausrichtung, Zeilenlänge, Satzart oder ähnliches).
 
