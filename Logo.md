@@ -1,3 +1,6 @@
+# Style Guide des ZDI Mainfranken
+[Hauptseite](Readme.md)
+
 Folgende Logos existieren für die verschiedenen Einsatzzwecke:
 
 ![Übersicht ZDI-Logos.pdf](.attachments.935566/%C3%9Cbersicht%20ZDI-Logos.pdf)
