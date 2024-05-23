@@ -1,4 +1,4 @@
-# Style Guide des ZDI Mainfranken
+## Style Guide des ZDI Mainfranken
 [zurück zur Hauptseite](Readme.md)
 
 ---
