@@ -1,6 +1,6 @@
 # Style Guide des ZDI Mainfranken
 
-![Tux, the Linux mascot](/images/tux.png)
+![ZDI-Logo](/images/ZDI-Logo.png)
 
 Dies ist der Style Guide des ZDI Mainfranken, in dem alle relevanten Elemente, Vorgaben und Objekte zum Corporate Design gesammelt werden. Er wird hier in digitaler Form angelegt, da er im Laufe der Zeit wachsen und sich verändern wird. Hier befindet sich immer die aktuellste Version.
 
