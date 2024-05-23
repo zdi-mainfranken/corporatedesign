@@ -4,7 +4,7 @@
 
 Dies ist der Style Guide des ZDI Mainfranken, in dem alle relevanten Elemente, Vorgaben und Objekte zum Corporate Design gesammelt werden. Er wird hier in digitaler Form angelegt, da er im Laufe der Zeit wachsen und sich verändern wird. Hier befindet sich immer die aktuellste Version.
 
-Nachfolgend die einzelnen Sektionen des Style Guide. Diese werden später auch in einer Navigation zu finden sein.
+Nachfolgend die einzelnen Sektionen des Style Guide.
 
 Bei Fragen zum Corporate Design oder zum Style Guide:
 [peter.schmitt@zdi-mainfranken.de](mailto:peter.schmitt@zdi-mainfranken.de?subject=Anfrage zum Corporate Design des ZDI)
