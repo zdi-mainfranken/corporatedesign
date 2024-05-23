@@ -54,11 +54,11 @@ Die Telekom verwendet Magenta als Hauptfarbe, die FDP arbeitet mit einer Kombina
 
 ### Farbpaletten
 Für einige Software-Produkte haben wir Farbpaletten hinterlegt, die direkt heruntergeladen und installiert werden können.
-<p>**Für die Affinity-Suite**
+* **Für die Affinity-Suite**
 * [Affinity-Farbpalette.](/files/Affinity.zip)
-<p>**Für Apple (System-Palette)**
+* **Für Apple (System-Palette)**
 * [Apple-System-Farbpalette.](/files/Apple.zip)
-<p>**Für Microsoft Office**
+* **Für Microsoft Office**
 * [Microsoft-Office-Farbpalette.](/files/Office.zip)
 
 ---
