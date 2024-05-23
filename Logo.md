@@ -1,5 +1,7 @@
 # Style Guide des ZDI Mainfranken
-[Hauptseite](Readme.md)
+[zurück zur Hauptseite](Readme.md)
+
+---
 
 Folgende Logos existieren für die verschiedenen Einsatzzwecke:
 
