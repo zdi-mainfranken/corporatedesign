@@ -52,6 +52,10 @@ Die Telekom verwendet Magenta als Hauptfarbe, die FDP arbeitet mit einer Kombina
 | RGB | 255r 255g 255b | RGB | 35r 31g 32b | 
 | RGB Hex | \#FFFFFF | RGB Hex | \#231F20 | 
 
+### Farbpaletten
+Für einige Software-Produkte haben wir Farbpaletten hinterlegt, die direkt heruntergeladen und installiert werden können.
+Für Affinity
+[Affinity-Farbpalette.](/files/Affinity.zip)
 
 ---
 
