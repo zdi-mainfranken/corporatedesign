@@ -2,6 +2,7 @@
 [zurück zur Hauptseite](Readme.md)
 
 ---
+
 Ein **Claim** (englisch für Behauptung, Anspruch) beschreibt den Markenkern eines Unternehmens und ist auf die langfristige strategische Positionierung angelegt, wohingegen ein **Slogan** (wortwörtlich „Schlachtruf“) temporär und meist nur kampagnenbezogen genutzt wird, um etwa den Kaufanreiz für ein Produkt zu steigern.
 
 Der Claim des ZDI lautet

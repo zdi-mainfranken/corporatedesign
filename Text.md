@@ -2,6 +2,7 @@
 [zurück zur Hauptseite](Readme.md)
 
 ---
+
 Hier werden wir im Laufe der Projekte Festlegungen/Vorgaben für Text festhalten.
 
 Tonalität
