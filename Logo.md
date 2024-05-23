@@ -14,9 +14,12 @@ Das Logo des ZDI gibt es in drei verschiedenen Varianten: das reine Bildzeichen,
 Das Logo kann in jeder der zehn ZDI-Farben eingefärbt werden. Dabei ist darauf zu achten, dass der Kontrast zum Untergrund ausreichend ist.
 
 
-Bitte nur die Originaldateien verwenden! (ZDI Ablage 2111/05 Öffentlichkeitsarbeit/01 Corporate Design/01 Logo/Logo-Dateien)
+Bitte nur die Originaldateien verwenden!
+> Intern: ZDI Ablage 2111/05 Öffentlichkeitsarbeit/01 Corporate Design/01 Logo/Logo-Dateien
 
-[Logo-Dateien](/ZDI%20Ablage%202111/05%20%C3%96ffentlichkeitsarbeit/01%20Corporate%20Design/01%20Logo/Logo-Dateien)
+* [Alle ZDI-Logo-Dateien als SVGs](/files/ZDI-Logo-svg.zip)
+* [Alle ZDI-Logo-Dateien als EPSs](/files/ZDI-Logo-eps.zip)
+* [Alle ZDI-Logo-Dateien als PNGs](/files/ZDI-Logo-png.zip)
 
 Die Logos liegen in verschiedenen Dateiformaten vor. Wenn möglich, sollten immer die svg-Dateien verwendet oder weitergegeben werden, da dieses Dateiformat Vektoren beinhaltet, die beliebig skaliert werden können. (Auch die eps-Dateien beinhalten Vektoren, das svg-Format ist doch universeller einsetzbar.) Ist das nicht möglich, werden die png-Dateien  verwendet.
 
