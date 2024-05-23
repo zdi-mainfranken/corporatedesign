@@ -26,4 +26,11 @@ Es können zwei beliebige Farben der ZDI-Farben miteinander kombiniert werden. S
 Die Telekom verwendet Magenta als Hauptfarbe, die FDP arbeitet mit einer Kombination von Gelb und Magenta. Hier der direkte Vergleich.
 
 ### Farbfelder zur Verwendung
-| ZDI-Hellblau | ZDI-Dunkelblau |
+| ZDI-hellblau
+cmyk:	67c 7m 0y 0k
+rgb: 	36r 183g 235b
+	#24B7EB | ZDI-dunkelblau
+cmyk:	98c 88m 11y 1k
+rgb: 	39r 65g 142b
+	#27418E |
+	
