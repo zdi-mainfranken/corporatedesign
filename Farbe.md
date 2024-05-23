@@ -29,8 +29,8 @@ Die Telekom verwendet Magenta als Hauptfarbe, die FDP arbeitet mit einer Kombina
 
 | **ZDI-Hellblau** | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) | **ZDI-Dunkelblau** | ![ZDI-Dunkelblau](/images/Farbfeld_ZDI-dunkelblau.png) | 
 | CMYK | 67c 7m 0y 0k | CMYK | 98c 88m 11y 1k | 
-| RGB | 67c 7m 0y 0k | RGB | 98c 88m 11y 1k | 
-| RGB Hex | 67c 7m 0y 0k | RGB Hex | 98c 88m 11y 1k | 
+| RGB | 36r 183g 235b | RGB | 39r 65g 142b | 
+| RGB Hex | /#24B7EB | RGB Hex | /#27418E | 
 | ZDI-Hellgrün | ![ZDI-Hellgrün](/images/Farbfeld_ZDI-hellgruen.png) | ZDI-Dunkelgrün | ![ZDI-Dunkelgrün](/images/Farbfeld_ZDI-dunkelgruen.png) |
 | ZDI-Gelb | ![ZDI-Gelb](/images/Farbfeld_ZDI-gelb.png)| ZDI-Orange | ![ZDI-Orange](/images/Farbfeld_ZDI-orange.png) |
 | ZDI-Sand | ![ZDI-Sand](/images/Farbfeld_ZDI-sand.png) | ZDI-Magenta | ![ZDI-Magenta](/images/Farbfeld_ZDI-magenta.png) |
