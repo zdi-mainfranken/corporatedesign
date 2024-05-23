@@ -9,6 +9,8 @@ Nachfolgend die einzelnen Sektionen des Style Guide. Diese werden später auch i
 Bei Fragen zum Corporate Design oder zum Style Guide:
 [peter.schmitt@zdi-mainfranken.de](mailto:peter.schmitt@zdi-mainfranken.de?subject=Anfrage zum Corporate Design des ZDI)
 
+> *Intern: Die Originaldateien liegen alle in /ZDI Ablage 2111/05 Öffentlichkeitsarbeit/01 Corporate Design*
+
 > *Erstellt am 23.4.24 von Peter Schmitt. // Letzte Änderung: 23.5.24*
 
 
