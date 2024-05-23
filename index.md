@@ -1,5 +1,0 @@
-# Hallo Welt,
-
-dies wird der Style Guide des ZDI.
-
-![Tux, the Linux mascot](/images/tux.png)
