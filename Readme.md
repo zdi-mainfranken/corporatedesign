@@ -8,8 +8,9 @@ Nachfolgend die einzelnen Sektionen des Style Guide. Diese werden später auch i
 
 Bei Fragen zum Corporate Design oder zum Style Guide:
 [peter.schmitt@zdi-mainfranken.de](peter.schmitt@zdi-mainfranken.de)
+[hientran\@clientdiary.com](mailto:hientran@clientdiary.com?subject=Test)
 
-Erstellt am 23.4.24 von Peter Schmitt. | Letzte Änderung: 23.5.24
+Erstellt am 23.4.24 von Peter Schmitt. // Letzte Änderung: 23.5.24
 
 [Logo](Logo.md)
 
