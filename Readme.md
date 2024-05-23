@@ -10,7 +10,7 @@ Erstellt am 23.4.24 von Peter Schmitt
 
 Letzte Änderung: 23.5.24
 
-[Logo](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Logo?fileId=935566)
+[Logo](Logo.md)
 
 [Claim](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Claim?fileId=937489)
 
