@@ -6,9 +6,9 @@ Dies ist der Style Guide des ZDI Mainfranken, in dem alle relevanten Elemente, V
 
 Nachfolgend die einzelnen Sektionen des Style Guide. Diese werden später auch in einer Navigation zu finden sein.
 
-Erstellt am 23.4.24 von Peter Schmitt
+Bei Fragen zum Corporate Design oder zum Style Guide: [peter.schmitt@zdi-mainfranken.de] (mailto: peter.schmitt@zdi-mainfranken.de)
 
-Letzte Änderung: 23.5.24
+Erstellt am 23.4.24 von Peter Schmitt. | Letzte Änderung: 23.5.24
 
 [Logo](Logo.md)
 
