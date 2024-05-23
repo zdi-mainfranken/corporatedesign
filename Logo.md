@@ -16,16 +16,16 @@ Bitte nur die Originaldateien verwenden! (ZDI Ablage 2111/05 Öffentlichkeitsarb
 
 Die Logos liegen in verschiedenen Dateiformaten vor. Wenn möglich, sollten immer die svg-Dateien verwendet oder weitergegeben werden, da dieses Dateiformat Vektoren beinhaltet, die beliebig skaliert werden können. (Auch die eps-Dateien beinhalten Vektoren, das svg-Format ist doch universeller einsetzbar.) Ist das nicht möglich, werden die png-Dateien  verwendet.
 
-Schutzraum des Logos
+**Schutzraum des Logos**
 
 ![ZDI-Logo Schutzraum](/images/ZDI-Logo-Schutzraum.png)
 
   
-Wie das Logo einzusetzen ist
+**Wie das Logo einzusetzen ist**
 
 ![ZDI-Logo Einsatz](/images/ZDI-Logo-Einsatz.png)
 
   
-Platzierung des Logos
+**Platzierung des Logos**
 
 ![ZDI-Logo Platzierung](/images/ZDI-Logo-Platzierung.png)
