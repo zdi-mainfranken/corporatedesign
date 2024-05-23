@@ -13,3 +13,8 @@ Beispiele für Bilder aus der Bildwelt des ZDI – aber auch Beispiele für Foto
 ![ZDI Bildsprache 2.pdf](.attachments.935606/ZDI%20Bildsprache%202.pdf)
 
 ![bildsprache.pdf](.attachments.935606/bildsprache.pdf)
+
+
+---
+
+Sollte jemand einen Fehler entdecken, freue ich mich über eine kurze Rückmeldung: [peter.schmitt@zdi-mainfranken.de](mailto:peter.schmitt@zdi-mainfranken.de?subject=Fehler im Style Guide des ZDI)

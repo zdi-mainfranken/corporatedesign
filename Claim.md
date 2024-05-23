@@ -11,3 +11,8 @@ Der Claim des ZDI lautet
 ### *„Home of Digital Start-ups“*
 
 Es ist keine feste Positionierung zum Logo vorgegeben. Der Claim kann zwar in der Nähe des Logos gesetzt werden. Er kann jedoch ebenso quasi wie eine Überschrift oder ähnliches eingesetzt werden.
+
+
+---
+
+Sollte jemand einen Fehler entdecken, freue ich mich über eine kurze Rückmeldung: [peter.schmitt@zdi-mainfranken.de](mailto:peter.schmitt@zdi-mainfranken.de?subject=Fehler im Style Guide des ZDI)

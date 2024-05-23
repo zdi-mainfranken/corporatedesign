@@ -16,4 +16,9 @@ Beide Schriftfamilien sind kostenlos verfügbar und können hier heruntergeladen
 * **Moby**
 * [https://font.download/font/moby](https://font.download/font/moby)
 
-Bisher gibt es keine typografischen Festlegungen (Ausrichtung, Zeilenlänge, Satzart oder ähnliches).tt
+Bisher gibt es keine typografischen Festlegungen (Ausrichtung, Zeilenlänge, Satzart oder ähnliches).
+
+
+---
+
+Sollte jemand einen Fehler entdecken, freue ich mich über eine kurze Rückmeldung: [peter.schmitt@zdi-mainfranken.de](mailto:peter.schmitt@zdi-mainfranken.de?subject=Fehler im Style Guide des ZDI)

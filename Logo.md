@@ -46,3 +46,8 @@ Das Standard-Logo ist das linksbündige. Die zentrierte Version kommt ausschlie�
 ### Farbvarianten des Logos
 
 ![ZDI-Logo-Farbvarianten](/images/ZDI-Logo-Farbvarianten.png)
+
+
+---
+
+Sollte jemand einen Fehler entdecken, freue ich mich über eine kurze Rückmeldung: [peter.schmitt@zdi-mainfranken.de](mailto:peter.schmitt@zdi-mainfranken.de?subject=Fehler im Style Guide des ZDI)
