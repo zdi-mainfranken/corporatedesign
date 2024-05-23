@@ -23,9 +23,9 @@ Schutzraum des Logos
   
 Wie das Logo einzusetzen ist
 
-![ZDI-Logo Einsatz](/images/ZDI-Logo-Einsatz.pdf)
+![ZDI-Logo Einsatz](/images/ZDI-Logo-Einsatz.png)
 
   
 Platzierung des Logos
 
-![ZDI-Logo Platzierung](/images/ZDI-Logo-Platzierung.pdf)
+![ZDI-Logo Platzierung](/images/ZDI-Logo-Platzierung.png)
