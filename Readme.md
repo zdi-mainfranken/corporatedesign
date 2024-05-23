@@ -1,18 +1,14 @@
-# Hallo Welt,
-
-dies wird der Style Guide des ZDI.
+# Style Guide des ZDI Mainfranken
 
 ![Tux, the Linux mascot](/images/tux.png)
 
-Dies ist der Style Guide des ZDI, in dem alle relevanten Elemente, Vorgaben und Objekte zum Corporate Design gesammelt werden. Er wird hier in digitaler Form angelegt, da er im Laufe der Zeit wachsen und sich verändern wird. Hier befindet sich immer die aktuellste Version.
+Dies ist der Style Guide des ZDI Mainfranken, in dem alle relevanten Elemente, Vorgaben und Objekte zum Corporate Design gesammelt werden. Er wird hier in digitaler Form angelegt, da er im Laufe der Zeit wachsen und sich verändern wird. Hier befindet sich immer die aktuellste Version.
 
-Nachfolgend die einzelnen Sektionen des Style Guide. Diese sind auch links in der Navigation zu finden.
-
-Die Originaldateien liegen alle in /ZDI Ablage 2111/05 Öffentlichkeitsarbeit/01 Corporate Design
+Nachfolgend die einzelnen Sektionen des Style Guide. Diese werden später auch in einer Navigation zu finden sein.
 
 Erstellt am 23.4.24 von Peter Schmitt
 
-Letzte Änderung: 25.4.24
+Letzte Änderung: 23.5.24
 
 [Logo](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Logo?fileId=935566)
 
