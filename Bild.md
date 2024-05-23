@@ -8,11 +8,9 @@ Durch eine konsistente Bildsprache lässt sich eine Marke gut kommunizieren. All
 
 Beispiele für Bilder aus der Bildwelt des ZDI – aber auch Beispiele für Fotos, die keine „ZDI-Bilder“ sind – werden folgen und hier sukzessive ergänzt.
 
-![ZDI Bildsprache.pdf](.attachments.935606/ZDI%20Bildsprache.pdf)
+![ZDI Bildsprache](/images/ZDI-Bildsprache.png)
 
-![ZDI Bildsprache 2.pdf](.attachments.935606/ZDI%20Bildsprache%202.pdf)
-
-![bildsprache.pdf](.attachments.935606/bildsprache.pdf)
+![ZDI Bildsprache 2](/images/ZDI-Bildsprache-2.png)
 
 
 ---
