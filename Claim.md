@@ -8,6 +8,6 @@ Ein **Claim** (englisch für Behauptung, Anspruch) beschreibt den Markenkern ein
 
 Der Claim des ZDI lautet
 
-> **„Home of Digital Start-ups“**
+### *„Home of Digital Start-ups“*
 
 Es ist keine feste Positionierung zum Logo vorgegeben. Der Claim kann zwar in der Nähe des Logos gesetzt werden. Er kann jedoch ebenso quasi wie eine Überschrift oder ähnliches eingesetzt werden.
