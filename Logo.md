@@ -3,9 +3,11 @@
 
 ---
 
+# Logo
+
 Folgende Logos existieren für die verschiedenen Einsatzzwecke:
 
-![Übersicht ZDI-Logos.pdf](.attachments.935566/%C3%9Cbersicht%20ZDI-Logos.pdf)
+![Übersicht ZDI-Logos](/images/Uebersicht-ZDI-Logos.png)
 
   
 Bitte nur die Originaldateien verwenden! (ZDI Ablage 2111/05 Öffentlichkeitsarbeit/01 Corporate Design/01 Logo/Logo-Dateien)
