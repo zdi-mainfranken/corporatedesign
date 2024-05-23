@@ -27,11 +27,28 @@ Die Telekom verwendet Magenta als Hauptfarbe, die FDP arbeitet mit einer Kombina
 
 ### Farbfelder zur Verwendung
 
+|  |
 | **ZDI-Hellblau** | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) | **ZDI-Dunkelblau** | ![ZDI-Dunkelblau](/images/Farbfeld_ZDI-dunkelblau.png) | 
 | CMYK | 67c 7m 0y 0k | CMYK | 98c 88m 11y 1k | 
 | RGB | 36r 183g 235b | RGB | 39r 65g 142b | 
 | RGB Hex | \#24B7EB | RGB Hex | \#27418E | 
+|  |
 | ZDI-Hellgrün | ![ZDI-Hellgrün](/images/Farbfeld_ZDI-hellgruen.png) | ZDI-Dunkelgrün | ![ZDI-Dunkelgrün](/images/Farbfeld_ZDI-dunkelgruen.png) |
+| CMYK | 67c 7m 0y 0k | CMYK | 98c 88m 11y 1k | 
+| RGB | 36r 183g 235b | RGB | 39r 65g 142b | 
+| RGB Hex | \#24B7EB | RGB Hex | \#27418E | 
+|  |
 | ZDI-Gelb | ![ZDI-Gelb](/images/Farbfeld_ZDI-gelb.png)| ZDI-Orange | ![ZDI-Orange](/images/Farbfeld_ZDI-orange.png) |
+| CMYK | 67c 7m 0y 0k | CMYK | 98c 88m 11y 1k | 
+| RGB | 36r 183g 235b | RGB | 39r 65g 142b | 
+| RGB Hex | \#24B7EB | RGB Hex | \#27418E | 
+|  |
 | ZDI-Sand | ![ZDI-Sand](/images/Farbfeld_ZDI-sand.png) | ZDI-Magenta | ![ZDI-Magenta](/images/Farbfeld_ZDI-magenta.png) |
+| CMYK | 67c 7m 0y 0k | CMYK | 98c 88m 11y 1k | 
+| RGB | 36r 183g 235b | RGB | 39r 65g 142b | 
+| RGB Hex | \#24B7EB | RGB Hex | \#27418E | 
+|  |
 | ZDI-Weiß | ![ZDI-Weiß](/images/Farbfeld_ZDI-weiss.png) | ZDI-Schwarz | ![ZDI-Schwarz](/images/Farbfeld_ZDI-schwarz.png) |
+| CMYK | 67c 7m 0y 0k | CMYK | 98c 88m 11y 1k | 
+| RGB | 36r 183g 235b | RGB | 39r 65g 142b | 
+| RGB Hex | \#24B7EB | RGB Hex | \#27418E | 
