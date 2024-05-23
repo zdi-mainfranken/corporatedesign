@@ -27,10 +27,10 @@ Die Telekom verwendet Magenta als Hauptfarbe, die FDP arbeitet mit einer Kombina
 
 ### Farbfelder zur Verwendung
 
-| ZDI-Hellblau | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) | ZDI-Dunkelblau | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) | 
-| ZDI-Hellgrün | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) | ZDI-Dunkelgrün | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) |
-| ZDI-Gelb | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png)| ZDI-Orange | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) |
-| ZDI-Sand | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) | ZDI-Magenta | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) |
-| ZDI-Weiß | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) | ZDI-Schwarz | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) |
+| ZDI-Hellblau | ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png) | ZDI-Dunkelblau | ![ZDI-Dunkelblau](/images/Farbfeld_ZDI-dunkelblau.png) | 
+| ZDI-Hellgrün | ![ZDI-Hellgrün](/images/Farbfeld_ZDI-hellgruen.png) | ZDI-Dunkelgrün | ![ZDI-Dunkelgrün](/images/Farbfeld_ZDI-dunkelgruen.png) |
+| ZDI-Gelb | ![ZDI-Gelb](/images/Farbfeld_ZDI-gelb.png)| ZDI-Orange | ![ZDI-Orange](/images/Farbfeld_ZDI-orange.png) |
+| ZDI-Sand | ![ZDI-Sand](/images/Farbfeld_ZDI-sand.png) | ZDI-Magenta | ![ZDI-Magenta](/images/Farbfeld_ZDI-magenta.png) |
+| ZDI-Weiß | ![ZDI-Weiß](/images/Farbfeld_ZDI-weiss.png) | ZDI-Schwarz | ![ZDI-Schwarz](/images/Farbfeld_ZDI-schwarz.png) |
 
 ![ZDI-Hellblau](/images/Farbfeld_ZDI-hellblau.png)
