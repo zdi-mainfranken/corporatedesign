@@ -7,31 +7,30 @@ Dies ist der Style Guide des ZDI Mainfranken, in dem alle relevanten Elemente, V
 Nachfolgend die einzelnen Sektionen des Style Guide. Diese werden später auch in einer Navigation zu finden sein.
 
 Bei Fragen zum Corporate Design oder zum Style Guide:
-[peter.schmitt@zdi-mainfranken.de](peter.schmitt@zdi-mainfranken.de)
-[hientran\@clientdiary.com](mailto:hientran@clientdiary.com?subject=Test)
+[peter.schmitt\@zdi-mainfranken.de](mailto:peter.schmitt@zdi-mainfranken.de?subject=Anfrage zum Corporate Design des ZDI)
 
 Erstellt am 23.4.24 von Peter Schmitt. // Letzte Änderung: 23.5.24
 
 [Logo](Logo.md)
 
-[Claim](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Claim?fileId=937489)
+[Claim](Claim.md)
 
-[Schrift, Typografie](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Schrift%2C%20Typografie?fileId=935600)
+[Schrift, Typografie](Schrift\, Typografie.md)
 
-[Farbe](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Farbe?fileId=935601)
+[Farbe](Farbe.md)
 
-[Bild](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Bild?fileId=935606)
+[Bild](Bild.md)
 
-[Grafische Elemente](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Grafische%20Elemente?fileId=935607)
+[Grafische Elemente](Grafische Elemente.md)
 
-[Icons](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Icons?fileId=935609)
+[Icons](Icons.md)
 
-[Formate](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Formate?fileId=935610)
+[Formate](Formate.md)
 
-[Text](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Text?fileId=935720)
+[Text](Text.md)
 
-[Beispiele](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Beispiele?fileId=937486)
+[Beispiele](Beispiele.md)
 
-[Vorlagen](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Vorlagen?fileId=936610)
+[Vorlagen](Vorlagen.md)
 
-[Ablauf, Verantwortlichkeiten](https://cloud.gruenderzentren-wuerzburg.de/apps/collectives/Dokumentation%20und%20Protokolle/Style%20Guide%20ZDI/Ablauf%2C%20Verantwortlichkeiten?fileId=937177)
+[Ablauf, Verantwortlichkeiten](Ablauf\, Verantwortlichkeiten.md)
