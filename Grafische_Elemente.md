@@ -4,9 +4,19 @@
 ---
 
 # Grafische Elemente
-![Cube-Frame](/images/Cube-Frame-2.png)
+### Grafisches Element Cube-Frame 2
+![Cube-Frame](/images/Cube-Frame.png)
+Der Cube ist das markanteste Gebäude des ZDI und visuell stellvertretend. Er ist zwar meistens von unten zu sehen, aber die interessantere grafische Form ergibt sich aus einer Perspektive von oben. Entfernt man die Schattierungen und damit die Dreidimensionalität, bleibt ein markantes grafisches Element übrig. Dieses kann in unterschiedlichen Anschnitten und Ausprägungen eingesetzt werden.
 
-![Cube-Frame 2](/images/Cube-Frame.png)
+Der Winkel der Schräge ist immer gleich (50 °)
+
+Beide Ecken sind gleich groß.
+
+Das Seitenverhältnis des Cube-Frame ist nicht fest definiert, ebensowenig das Verhältnis von gerader Seite zu Schräge. Allerdings sollte der schräge Abschnitt höchstens halb so groß sein wie der jeweils gerade Abschnitt.
+
+### Grafisches Element Cube-Frame 2
+![Cube-Frame 2](/images/Cube-Frame-2.png)
+Der Cube-Frame kann in den unterschiedlichsten Ausprägungen eingesetzt werden. Es sollte immer mindestens eine der abgeschrägten Ecken zu sehen sein. Nicht zulässig ist jedoch, dass die entstehende Form lediglich ein Dreieck entsteht.
 
 ---
 
