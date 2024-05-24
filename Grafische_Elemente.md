@@ -4,9 +4,9 @@
 ---
 
 # Grafische Elemente
-![Cube-Frame](.attachments.935607/Cube-Frame%20%283%29.pdf)
+![Cube-Frame](/images/Cube-Frame-2.png)
 
-![Cube-Frame 2](.attachments.935607/Cube-Frame%202%20%282%29.pdf)
+![Cube-Frame 2](/images/Cube-Frame.png)
 
 ---
 
