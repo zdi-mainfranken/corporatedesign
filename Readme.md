@@ -25,7 +25,7 @@ Bei Fragen zum Corporate Design oder zum Style Guide:
 * [Icons](Icons.md)
 * [Formate](Formate.md)
 * [Text](Text.md)
-* [Subbrands (z. B. Veranstaltungen)](Subbrands_zB_Veranstaltungen.md)
+* [Sub-Brands (z. B. Veranstaltungen)](Subbrands_zB_Veranstaltungen.md)
 * [Beispiele](Beispiele.md)
 * [Vorlagen](Vorlagen.md)
 * [Ablauf, Verantwortlichkeiten](Ablauf_Verantwortlichkeiten.md)

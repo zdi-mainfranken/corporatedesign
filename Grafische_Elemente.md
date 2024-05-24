@@ -4,7 +4,7 @@
 ---
 
 # Grafische Elemente
-### Grafisches Element Cube-Frame 2
+### Grafisches Element Cube-Frame
 ![Cube-Frame](/images/Cube-Frame.png)
 Der Cube ist das markanteste Gebäude des ZDI und visuell stellvertretend. Er ist zwar meistens von unten zu sehen, aber die interessantere grafische Form ergibt sich aus einer Perspektive von oben. Entfernt man die Schattierungen und damit die Dreidimensionalität, bleibt ein markantes grafisches Element übrig. Dieses kann in unterschiedlichen Anschnitten und Ausprägungen eingesetzt werden.
 
@@ -31,7 +31,7 @@ Der Cube-Frame kann in den unterschiedlichsten Ausprägungen eingesetzt werden. 
 * [Icons](Icons.md)
 * [Formate](Formate.md)
 * [Text](Text.md)
-* [Subbrands (z. B. Veranstaltungen)](Subbrands_zB_Veranstaltungen.md)
+* [Sub-Brands (z. B. Veranstaltungen)](Subbrands_zB_Veranstaltungen.md)
 * [Beispiele](Beispiele.md)
 * [Vorlagen](Vorlagen.md)
 * [Ablauf, Verantwortlichkeiten](Ablauf_Verantwortlichkeiten.md)
