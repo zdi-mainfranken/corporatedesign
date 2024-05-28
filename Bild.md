@@ -12,6 +12,8 @@ Beispiele für Bilder aus der Bildwelt des ZDI – aber auch Beispiele für Foto
 
 ![ZDI Bildsprache 2](/images/ZDI-Bildsprache-2.png)
 
+![Bildsprache Beispiele](/images/Bildsprache-01.png)
+
 
 ---
 
