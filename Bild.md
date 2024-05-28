@@ -12,7 +12,49 @@ Beispiele für Bilder aus der Bildwelt des ZDI – aber auch Beispiele für Foto
 
 ![ZDI Bildsprache 2](/images/ZDI-Bildsprache-2.png)
 
+### Beispiele für die ZDI-Bildsprache
+
 ![Bildsprache Beispiele](/images/Bildsprache-01.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-02.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-03.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-04.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-05.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-06.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-07.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-08.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-09.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-10.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-11.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-12.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-13.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-14.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-15.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-16.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-17.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-18.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-19.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-20.png)
+
+![Bildsprache Beispiele](/images/Bildsprache-21.png)
 
 
 ---
