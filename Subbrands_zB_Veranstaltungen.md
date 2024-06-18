@@ -8,7 +8,9 @@ Wir haben verschiedene wiederholte Veranstaltungen (Ideenflug, Hurra ein Problem
 
 Der Würzburg Accelerator ist das wichtigste „Produkt“ des ZDI. Er wird extra beworben. Jedoch muss er sich ins Corporate Design einfügen.
 
+Hier einige Beispiele für Submarken des ZDI
 
+![ZDI Subbrands](/images/ZDI-Untermarken-Beispiele.png)
 
 ---
 
