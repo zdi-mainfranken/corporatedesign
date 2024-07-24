@@ -10,13 +10,9 @@ Sollte aus irgendwelchen Gründen die Verwendung des Logos im svg-Format nicht m
 * [ZDI-Logo im Pixelformat (png)](/files/ZDI-Logo_Pixelformat.zip)  
 
 
----
-
 ![Voransicht Logovarianten](/images/Style-Guide_Logovarianten.png)
 
-Es sollte eigentlich immer dieses linksbündige Logo eingesetzt werden. Es könnte aber sein, dass dies einmal nicht möglich ist. Hierfür haben wir noch eine zentriert gesetzte Variante sowie eine Version ohne Text.
-
-![Voransicht Standardlogo](/images/Style-Guide_Standardlogo.png)
+Es sollte eigentlich immer dieses linksbündige Logo eingesetzt werden. Es könnte aber sein, dass dies einmal nicht möglich ist. Hierfür haben wir noch eine zentriert gesetzte Variante sowie eine Version ohne Text.  
 
 * [ZDI-Logovarianten als Vektordatei (svg)](/files/ZDI-Logo_Vektorformat.zip)  
 
