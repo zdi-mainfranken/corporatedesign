@@ -4,6 +4,9 @@
 ---
 
 # Logo
+Das Logo des ZDI ist eine Weiterentwicklung des ursprünglichen Logos. Dies war zeigte einen dunkelblauen Kreis mit einem hellblauen Ring. Die Buchstaben „ZDI“ standen weiß darauf. Außerdem existierte eine monochrome Variante für Sonderzwecke. Diese monochrome Variante ist die Ausgangsbasis für das aktuelle Logo. Jedoch existiert es nun nicht nur in schwarz und in weiß, sondern kann in allen zehn Farben der ZDI-Farbpalette eingesetzt werden.
+Am häufigsten kommt jedoch die Variante in Magenta zum Einsatz.
+Für alle, die möglichst unkompliziert ein Logo des ZDI verwenden möchten geht es hier zum Download.
 
 ### Logovarianten
 Folgende Logos existieren für die verschiedenen Einsatzzwecke:
