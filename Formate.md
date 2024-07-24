@@ -6,6 +6,8 @@
 # Formate
 Formate sind momentan noch nicht definiert. Sie folgen im Laufe der Zeit.
 
+Alle **Monitore**, die aktuell mit Werbung von uns beschickt werden, arbeiten mit Full HD (1920 x 1080 px), einige davon im Hochformat, einige im Querformat.
+
 
 ---
 

@@ -9,9 +9,9 @@
 ### ZDI-Farben
 
 ![ZDI-Farben](/images/ZDI-Farben.png)
-Die Farben wurden aus dem ursprünglichen ZDI-Logo entwickelt. Die Farbpalette besteht aus acht Farben (plus Schwarz und Weiß), die in Paaren angeordnet sind. Jedes Paar besteht aus einer hellen und einer korrespondierenden dunklen Farbe.
+Die Farben wurden aus dem ursprünglichen ZDI-Logo entwickelt. Die Farbpalette besteht aus acht Farben (plus Schwarz und Weiß), die in Paaren angeordnet sind. Jedes Paar besteht aus einer hellen und einer korrespondierenden dunklen Farbe.  
 
-Die Farben haben Namen erhalten („ZDI-Hellblau“, „ZDI-Orange“ etc.), damit sie sprachlich gut voneinander zu unterscheiden sind.
+Die Farben haben Namen erhalten („ZDI-Hellblau“, „ZDI-Orange“ etc.), damit sie sprachlich gut voneinander zu unterscheiden sind.  
 
 
 ### Farbkombinationen

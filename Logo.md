@@ -31,27 +31,27 @@ Die Logos liegen in verschiedenen Dateiformaten vor. Wenn möglich, sollten imme
 
 ![ZDI-Logo Schutzraum](/images/ZDI-Logo-Schutzraum.png)  
 
-Das Logo benötigt Raum. Von anderen grafischen Objekten (Grafiken, andere Logos, Text etc.) ist deshalb ein Abstand von mindestens der halben Höhe des Bildzeichens des ZDI einzuhalten.
-In dieser Darstellung ist der Raum, der zu anderen Objekten eingehalten wird („Schutzraum“), grau dargestellt.
+Das Logo benötigt Raum. Von anderen grafischen Objekten (Grafiken, andere Logos, Text etc.) ist deshalb ein Abstand von mindestens der halben Höhe des Bildzeichens des ZDI einzuhalten.  
+In dieser Darstellung ist der Raum, der zu anderen Objekten eingehalten wird („Schutzraum“), grau dargestellt.  
 
  
 ### Wie das Logo einzusetzen ist
 
-![ZDI-Logo Einsatz](/images/ZDI-Logo-Einsatz.png)
+![ZDI-Logo Einsatz](/images/ZDI-Logo-Einsatz.png)  
 
-Das Logo sollte auf einem möglichst ruhigen Untergrund platziert werden. Dies kann auch durchaus ein Foto sein. Dann sollte allerdings ein ruhiger Bereich des Fotos gewählt werden. Wichtig ist ebenso ein guter Kontrast. Hierfür sollte entsprechend auf dunklem Untergrund eine helle Farbvariante eingesetzt werden.
+Das Logo sollte auf einem möglichst ruhigen Untergrund platziert werden. Dies kann auch durchaus ein Foto sein. Dann sollte allerdings ein ruhiger Bereich des Fotos gewählt werden. Wichtig ist ebenso ein guter Kontrast. Hierfür sollte entsprechend auf dunklem Untergrund eine helle Farbvariante eingesetzt werden.  
 
  
 ### Platzierung des Logos
 
-![ZDI-Logo Platzierung](/images/ZDI-Logo-Platzierung.png)
+![ZDI-Logo Platzierung](/images/ZDI-Logo-Platzierung.png)  
 
-Das Standard-Logo ist das linksbündige. Die zentrierte Version kommt ausschließlich zum Einsatz, wenn die Gestaltung insgesamt zentriert angelegt ist. Die Platzierung ist dann auch im Gestaltungsbereich/der Seite zentriert zu setzen. Das linksbündige Logo kann oben, unten, rechts oder links gesetzt werden, wenn es die Gestaltung erfordert, auch weiter innen auf der Seite. Die verschiedenen Platzierungen sind derzeit nicht für spezielle Anwendungszwecke reserviert.
+Das Standard-Logo ist das linksbündige. Die zentrierte Version kommt ausschließlich zum Einsatz, wenn die Gestaltung insgesamt zentriert angelegt ist. Die Platzierung ist dann auch im Gestaltungsbereich/der Seite zentriert zu setzen. Das linksbündige Logo kann oben, unten, rechts oder links gesetzt werden, wenn es die Gestaltung erfordert, auch weiter innen auf der Seite. Die verschiedenen Platzierungen sind derzeit nicht für spezielle Anwendungszwecke reserviert.  
 
  
 ### Farbvarianten des Logos
 
-![ZDI-Logo-Farbvarianten](/images/ZDI-Logo-Farbvarianten.png)
+![ZDI-Logo-Farbvarianten](/images/ZDI-Logo-Farbvarianten.png)  
 
 
 ---
