@@ -1,4 +1,3 @@
- ![ZDI-Logo](/images/ZDI-Logo.png)
 ## Das ZDI-Logo zum Download
 ![Voransicht Standardlogo](/images/Style-Guide_Standardlogo.png)
 **Die meisten Programme unterstützen das svg-Format. Es ist ohne Qualitätsverlust frei skalierbar. Wenn keine guten Gründe dagegen sprechen, bitte diese Datei verwenden.**  
