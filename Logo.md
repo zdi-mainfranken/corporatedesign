@@ -4,32 +4,32 @@
 ---
 
 # Logo
-Das Logo des ZDI ist eine Weiterentwicklung des ursprünglichen Logos. Dies war zeigte einen dunkelblauen Kreis mit einem hellblauen Ring. Die Buchstaben „ZDI“ standen weiß darauf. Außerdem existierte eine monochrome Variante für Sonderzwecke. Diese monochrome Variante ist die Ausgangsbasis für das aktuelle Logo. Jedoch existiert es nun nicht nur in schwarz und in weiß, sondern kann in allen zehn Farben der ZDI-Farbpalette eingesetzt werden.
-Am häufigsten kommt jedoch die Variante in Magenta zum Einsatz.
+Das Logo des ZDI ist eine Weiterentwicklung des ursprünglichen Logos. Dies war zeigte einen dunkelblauen Kreis mit einem hellblauen Ring. Die Buchstaben „ZDI“ standen weiß darauf. Außerdem existierte eine monochrome Variante für Sonderzwecke. Diese monochrome Variante ist die Ausgangsbasis für das aktuelle Logo. Jedoch existiert es nun nicht nur in schwarz und in weiß, sondern kann in allen zehn Farben der ZDI-Farbpalette eingesetzt werden.  
+Am häufigsten kommt jedoch die Variante in Magenta zum Einsatz.  
 Für alle, die möglichst unkompliziert ein Logo des ZDI verwenden möchten geht es **[hier](ZDI-Logo.md)** zum Download.
 
 ### Logovarianten
-Folgende Logos existieren für die verschiedenen Einsatzzwecke:
+Folgende Logos existieren für die verschiedenen Einsatzzwecke:  
 
-![Übersicht ZDI-Logos](/images/Uebersicht-ZDI-Logos.png)
+![Übersicht ZDI-Logos](/images/Uebersicht-ZDI-Logos.png). 
 
-Das Logo des ZDI gibt es in drei verschiedenen Varianten: das reine Bildzeichen, als zentrierte Version und als Version mit linksbündigem Text.
-Das Logo kann in jeder der zehn ZDI-Farben eingefärbt werden. Dabei ist darauf zu achten, dass der Kontrast zum Untergrund ausreichend ist.
+Das Logo des ZDI gibt es in drei verschiedenen Varianten: das reine Bildzeichen, als zentrierte Version und als Version mit linksbündigem Text.  
+Das Logo kann in jeder der zehn ZDI-Farben eingefärbt werden. Dabei ist darauf zu achten, dass der Kontrast zum Untergrund ausreichend ist.  
 
 
-Bitte nur die Originaldateien verwenden!
-> Intern: ZDI Ablage 2111/05 Öffentlichkeitsarbeit/01 Corporate Design/01 Logo/Logo-Dateien
+Bitte nur die Originaldateien verwenden!  
+> Intern: ZDI Ablage 2111/05 Öffentlichkeitsarbeit/01 Corporate Design/01 Logo/Logo-Dateien  
 
-* [Alle ZDI-Logo-Dateien als SVGs](/files/ZDI-Logo-svg.zip)
-* [Alle ZDI-Logo-Dateien als EPSs](/files/ZDI-Logo-eps.zip)
-* [Alle ZDI-Logo-Dateien als PNGs](/files/ZDI-Logo-png.zip)
+* [Alle ZDI-Logo-Dateien als SVGs](/files/ZDI-Logo-svg.zip)  
+* [Alle ZDI-Logo-Dateien als EPSs](/files/ZDI-Logo-eps.zip)  
+* [Alle ZDI-Logo-Dateien als PNGs](/files/ZDI-Logo-png.zip)  
 
-Die Logos liegen in verschiedenen Dateiformaten vor. Wenn möglich, sollten immer die svg-Dateien verwendet oder weitergegeben werden, da dieses Dateiformat Vektoren beinhaltet, die beliebig skaliert werden können. (Auch die eps-Dateien beinhalten Vektoren, das svg-Format ist doch universeller einsetzbar.) Ist das nicht möglich, werden die png-Dateien  verwendet.
+Die Logos liegen in verschiedenen Dateiformaten vor. Wenn möglich, sollten immer die svg-Dateien verwendet oder weitergegeben werden, da dieses Dateiformat Vektoren beinhaltet, die beliebig skaliert werden können. (Auch die eps-Dateien beinhalten Vektoren, das svg-Format ist doch universeller einsetzbar.) Ist das nicht möglich, werden die png-Dateien  verwendet.  
 
 
 ### Schutzraum des Logos
 
-![ZDI-Logo Schutzraum](/images/ZDI-Logo-Schutzraum.png)
+![ZDI-Logo Schutzraum](/images/ZDI-Logo-Schutzraum.png)  
 
 Das Logo benötigt Raum. Von anderen grafischen Objekten (Grafiken, andere Logos, Text etc.) ist deshalb ein Abstand von mindestens der halben Höhe des Bildzeichens des ZDI einzuhalten.
 In dieser Darstellung ist der Raum, der zu anderen Objekten eingehalten wird („Schutzraum“), grau dargestellt.
