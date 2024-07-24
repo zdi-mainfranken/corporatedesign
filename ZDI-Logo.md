@@ -1,4 +1,4 @@
- ![ZDI-Logo](/images/ZDI-Logo_linksbuendig_magenta.png)
+ ![ZDI-Logo](/images/ZDI-Logo.png)
 ## Das ZDI-Logo zum Download
 **Die meisten Programme unterstützen das svg-Format. Es ist ohne Qualitätsverlust frei skalierbar. Wenn keine guten Gründe dagegen sprechen, bitte diese Datei verwenden.**
 **ZDI-Logo als Vektordatei (svg)**
