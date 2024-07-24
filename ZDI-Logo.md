@@ -4,3 +4,5 @@
 **ZDI-Logo als Vektordatei (svg)**
 Sollte aus irgendwelchen Gründen die Verwendung des Logos im svg-Format nicht möglich sein, gibt es das Logo hier noch in einem Pixel-Format
 ZDI-Logo als Pixeldatei (png)
+
+[Zur Seite „Logo“](Logo.md)
