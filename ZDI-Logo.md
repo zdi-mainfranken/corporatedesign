@@ -6,7 +6,7 @@
 
 ---
 
-Für eine Pixelversion sowie Varianten des Logos geht es [hier entlang](ZDI-Logo-Varianten.md).
+Für eine Pixelversion sowie Varianten des Logos geht es [hier entlang](ZDI-Logo-Varianten.md).  
 
 Mehr Informationen zum Logo oder weitere Varianten benötigt?
-[Zum Styleguide des ZDI, Seite „Logo“](Logo.md)
+[Zum Styleguide des ZDI, Seite „Logo“](Logo.md)  
