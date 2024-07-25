@@ -19,4 +19,6 @@ Es sollte eigentlich immer dieses linksbündige Logo eingesetzt werden. Es könn
 
 ---
 Mehr Informationen zum Logo oder weitere Varianten benötigt?
-[Zum Styleguide des ZDI, Seite „Logo“](Logo.md)
+[Zum Styleguide des ZDI, Seite „Logo“](Logo.md)  
+
+[Zurück zum Download der Vektor-Variante](ZDI-Logo.md)
