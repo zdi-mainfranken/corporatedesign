@@ -11,14 +11,17 @@ Für alle, die möglichst unkompliziert ein Logo des ZDI verwenden möchten geht
 ### Logovarianten
 Folgende Logos existieren für die verschiedenen Einsatzzwecke:  
 
-![Übersicht ZDI-Logos](/images/Uebersicht-ZDI-Logos.png). 
+![Übersicht ZDI-Logos](/images/Uebersicht-ZDI-Logos.png)  
 
 Das Logo des ZDI gibt es in drei verschiedenen Varianten: das reine Bildzeichen, als zentrierte Version und als Version mit linksbündigem Text.  
 Das Logo kann in jeder der zehn ZDI-Farben eingefärbt werden. Dabei ist darauf zu achten, dass der Kontrast zum Untergrund ausreichend ist.  
 
-
 Bitte nur die Originaldateien verwenden!  
 > Intern: ZDI Ablage 2111/05 Öffentlichkeitsarbeit/01 Corporate Design/01 Logo/Logo-Dateien  
+
+![Übersicht über alle ZDI-Logoformen](/images/Alle ZDI-Logoformen.png)  
+
+Die nachfolgenden ZIP-Archive beinhalten jeweils alle diese Logoformen in einem bestimmten Dateiformat.  
 
 * [Alle ZDI-Logo-Dateien als SVGs](/files/ZDI-Logo-svg.zip)  
 * [Alle ZDI-Logo-Dateien als EPSs](/files/ZDI-Logo-eps.zip)  
