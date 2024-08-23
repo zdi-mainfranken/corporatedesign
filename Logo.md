@@ -23,9 +23,9 @@ Bitte nur die Originaldateien verwenden!
 
 Die nachfolgenden ZIP-Archive beinhalten jeweils alle diese Logoformen in einem bestimmten Dateiformat.  
 
-* [Alle ZDI-Logo-Dateien als SVGs](/files/ZDI-Logo-svg.zip)  
-* [Alle ZDI-Logo-Dateien als EPSs](/files/ZDI-Logo-eps.zip)  
-* [Alle ZDI-Logo-Dateien als PNGs](/files/ZDI-Logo-png.zip)  
+* [Alle ZDI-Logo-Dateien als SVGs](/files/ZDI-Logo_svg.zip)  
+* [Alle ZDI-Logo-Dateien als EPSs](/files/ZDI-Logo_eps.zip)  
+* [Alle ZDI-Logo-Dateien als PNGs](/files/ZDI-Logo_png.zip)  
 
 Die Logos liegen in verschiedenen Dateiformaten vor. Wenn möglich, sollten immer die svg-Dateien verwendet oder weitergegeben werden, da dieses Dateiformat Vektoren beinhaltet, die beliebig skaliert werden können. (Auch die eps-Dateien beinhalten Vektoren, das svg-Format ist doch universeller einsetzbar.) Ist das nicht möglich, werden die png-Dateien  verwendet.  
 
