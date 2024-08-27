@@ -22,10 +22,10 @@ Der Cube-Frame kann in den unterschiedlichsten Ausprägungen eingesetzt werden. 
 
 Der Cube-Frame kann jederzeit konstruiert werden, wenn man die oben genannten Vorgaben einhält. Viele Programme bieten aber keine geeigneten Möglichkeiten hierfür. Daher nachfolgend eine Auswahl von Cube-Frames als svg-Dateien, die direkt verwendet werden können. Diese dürfen jedoch nur proportional in ihrer Größe verändert (denn sonst ändert sich der Winkel der abgeschrägten Ecken) und nicht gespiegelt werden (sonst ändert sich die Anordnung der abgeschrägten Ecken).
 ![Cube-Frame verwendbare Dateien](/images/Cube_Frame_Varianten.png)
-* ![Vorschau](/images/Cube-Frame_gelb_Rand_Vorschau.png)[Varianten mit gelber Umrandung] (/files/CubeFrame_gelb_Rand.zip)
-* ![Vorschau](/images/Cube-Frame_magenta_Rand_Vorschau.png)[Varianten mit magenta Umrandung] (/files/CubeFrame_magenta_Rand.zip)
-* ![Vorschau](/images/Cube-Frame_gelb_Flaeche_Vorschau.png)[Varianten mit gelber Fläche] (/files/CubeFrame_gelb_Flaeche.zip)
-* ![Vorschau](/images/Cube-Frame_magenta_Flaeche_Vorschau.png)[Varianten mit magenta Fläche] (/files/CubeFrame_magenta_Flaeche.zip)
+* ![Vorschau](/images/Cube-Frame_gelb_Rand_Vorschau.png) [Varianten mit gelber Umrandung] (/files/CubeFrame_gelb_Rand.zip)
+* ![Vorschau](/images/Cube-Frame_magenta_Rand_Vorschau.png) [Varianten mit magenta Umrandung] (/files/CubeFrame_magenta_Rand.zip)
+* ![Vorschau](/images/Cube-Frame_gelb_Flaeche_Vorschau.png) [Varianten mit gelber Fläche] (/files/CubeFrame_gelb_Flaeche.zip)
+* ![Vorschau](/images/Cube-Frame_magenta_Flaeche_Vorschau.png) [Varianten mit magenta Fläche] (/files/CubeFrame_magenta_Flaeche.zip)
 
 ---
 
