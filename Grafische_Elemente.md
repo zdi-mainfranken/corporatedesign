@@ -18,6 +18,14 @@ Das Seitenverhältnis des Cube-Frame ist nicht fest definiert, ebensowenig das V
 ![Cube-Frame 2](/images/Cube-Frame-2.png)
 Der Cube-Frame kann in den unterschiedlichsten Ausprägungen eingesetzt werden. Es sollte immer mindestens eine der abgeschrägten Ecken zu sehen sein. Nicht zulässig ist jedoch, dass die entstehende Form lediglich ein Dreieck entsteht.
 
+### Cube-Frame Verwendbare Dateien
+![Cube-Frame verwendbare Dateien](/images/Cube_Frame_Varianten.png)
+Der Cube-Frame kann jederzeit konstruiert werden, wenn man die oben genannten Vorgaben einhält. Viele Programme bieten aber keine geeigneten Möglichkeiten hierfür. Daher nachfolgend eine Auswahl von Cube-Frames als svg-Dateien, die direkt verwendet werden können. Diese dürfen jedoch nur proportional in ihrer Größe verändert (denn sonst ändert sich der Winkel der abgeschrägten Ecken) und nicht gespiegelt werden (sonst ändert sich die Anordnung der abgeschrägten Ecken).
+![Vorschau](/images/Cube-Frame_gelb_Rand_Vorschau.png)[Varianten mit gelber Umrandung] (/files/CubeFrame_gelb_Rand.zip)
+![Vorschau](/images/Cube-Frame_magenta_Rand_Vorschau.png)[Varianten mit magenta Umrandung] (/files/CubeFrame_magenta_Rand.zip)
+![Vorschau](/images/Cube-Frame_gelb_Flaeche_Vorschau.png)[Varianten mit gelber Fläche] (/files/CubeFrame_gelb_Flaeche.zip)
+![Vorschau](/images/Cube-Frame_magenta_Flaeche_Vorschau.png)[Varianten mit magenta Fläche] (/files/CubeFrame_magenta_Flaeche.zip)
+
 ---
 
 **Verfügbare Sektionen:**
