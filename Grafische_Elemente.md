@@ -26,6 +26,10 @@ Der Cube-Frame kann jederzeit konstruiert werden, wenn man die oben genannten Vo
 * ![Vorschau](/images/Cube-Frame_magenta_Rand_Vorschau.png) [Varianten mit magenta Umrandung] (/files/CubeFrame_magenta_Rand.zip)
 * ![Vorschau](/images/Cube-Frame_gelb_Flaeche_Vorschau.png) [Varianten mit gelber Fläche] (/files/CubeFrame_gelb_Flaeche.zip)
 * ![Vorschau](/images/Cube-Frame_magenta_Flaeche_Vorschau.png) [Varianten mit magenta Fläche] (/files/CubeFrame_magenta_Flaeche.zip)
+* [Varianten mit gelber Umrandung] (/files/CubeFrame_gelb_Rand.zip)
+* [Varianten mit magenta Umrandung] (/files/CubeFrame_magenta_Rand.zip)
+* [Varianten mit gelber Fläche] (/files/CubeFrame_gelb_Flaeche.zip)
+* [Varianten mit magenta Fläche] (/files/CubeFrame_magenta_Flaeche.zip)
 
 ---
 
